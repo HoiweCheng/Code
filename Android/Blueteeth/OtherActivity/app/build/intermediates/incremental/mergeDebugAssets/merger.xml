@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Code\Android\Blueteeth\OtherActivity\app\src\main\assets"/><source path="E:\Code\Android\Blueteeth\OtherActivity\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Code\Android\Blueteeth\OtherActivity\app\src\debug\assets"/></dataSet></merger>

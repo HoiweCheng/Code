@@ -1,0 +1,6 @@
+E:\Code\C#\Console_test\Console_Stack\bin\Debug\Console_Stack.exe.config
+E:\Code\C#\Console_test\Console_Stack\bin\Debug\Console_Stack.exe
+E:\Code\C#\Console_test\Console_Stack\bin\Debug\Console_Stack.pdb
+E:\Code\C#\Console_test\Console_Stack\obj\Debug\Console_Stack.csprojResolveAssemblyReference.cache
+E:\Code\C#\Console_test\Console_Stack\obj\Debug\Console_Stack.exe
+E:\Code\C#\Console_test\Console_Stack\obj\Debug\Console_Stack.pdb

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\display_prefs.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\xml\\display_prefs.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

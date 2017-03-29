@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\z.jpg",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\z.jpg"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\t.jpg",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\t.jpg"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_settings_applications.png",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_applications.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_settings_display.gif",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_display.gif"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\p.jpg",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\p.jpg"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tools.jpg",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\tools.jpg"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_search.png",
+        "source": "E:\\Code\\Android\\Blueteeth\\OtherActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    }
+]

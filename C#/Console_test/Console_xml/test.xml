@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+   <charset>
+      <item index="1">a-z</item>
+      <item index="1">A-Z</item>
+      <item index="1">_</item>
+      <item index="2">0-9</item>
+      <item index="3">.</item>
+      <item index="4">\n, ,\t</item>
+      <item index="5">"</item>
+      <item index="6">+-|&amp;</item>
+      <item index="7">=</item>
+      <item index="8">!%>&lt;*/</item>
+      <item index="9">[](){}</item>
+    </charset>
+  <DFA>
+    <item current="0" next="1">1</item>
+    <item current="0" next="2">2</item>
+    <item current="0" next="3">3</item>
+  </DFA>
+</config>

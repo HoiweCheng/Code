@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interpreter.Lexar" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Interpreter.Lexar.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Lexar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABIAAAAAgAAAAAAAAAABACAAAAAAAAAAIAA=</HashCode>
+      <FileName>Lexar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.Program" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interpreter.Token" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Interpreter.Token.TokenType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Token.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

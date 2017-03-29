@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TelController</string>
+    <string name="text_pair">pair</string>
+    <string name="search">search</string>
+    <string name="cancel">cancel</string>
+</resources>

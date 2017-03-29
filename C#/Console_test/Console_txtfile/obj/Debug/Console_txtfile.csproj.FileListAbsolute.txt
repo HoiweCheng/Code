@@ -1,0 +1,1 @@
+E:\Code\C#\Console_test\Console_txtfile\bin\Debug\Console_txtfile.exe.config

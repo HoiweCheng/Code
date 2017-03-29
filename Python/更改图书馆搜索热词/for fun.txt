@@ -1,0 +1,18 @@
+http://www.libopac.seu.edu.cn:8080/opac/openlink.php?strSearchType=
+" + kind + "
+&historyCount=1&strText=
+"+ tmp_search + "
+&doctype=ALL&match_flag=forward&displaypg=20&sort=CATA_DATE&orderby=desc&showmode=list&dept=ALL&x=20&y=22
+
+
+http://www.libopac.seu.edu.cn:8080/opac/openlink.php?strSearchType=
+title
+&historyCount=1&strText=
+%E6%95%B0%E5%AD%A6
+&doctype=ALL&match_flag=forward&displaypg=20&sort=CATA_DATE&orderby=desc&showmode=list&dept=ALL&x=20&y=22
+
+http://www.libopac.seu.edu.cn:8080/opac/openlink.php?strSearchType=
+title
+&historyCount=1&strText=
+nihao
+&doctype=ALL&match_flag=forward&displaypg=20&sort=CATA_DATE&orderby=desc&showmode=list&dept=ALL&x=20&y=22

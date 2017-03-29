@@ -1,0 +1,6 @@
+E:\Code\C#\Console_test\Console_Prope\bin\Debug\Console_Prope.exe.config
+E:\Code\C#\Console_test\Console_Prope\bin\Debug\Console_Prope.exe
+E:\Code\C#\Console_test\Console_Prope\bin\Debug\Console_Prope.pdb
+E:\Code\C#\Console_test\Console_Prope\obj\Debug\Console_Prope.csprojResolveAssemblyReference.cache
+E:\Code\C#\Console_test\Console_Prope\obj\Debug\Console_Prope.exe
+E:\Code\C#\Console_test\Console_Prope\obj\Debug\Console_Prope.pdb

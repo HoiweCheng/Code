@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\src\\main\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "E:\\Code\\Android\\Blueteeth\\AndroBluetooth-master\\app\\src\\main\\res\\layout\\activity_paired_devices.xml"
+    }
+]

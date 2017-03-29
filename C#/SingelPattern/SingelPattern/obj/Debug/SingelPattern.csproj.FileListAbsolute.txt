@@ -1,0 +1,1 @@
+E:\Code\C#\SingelPattern\SingelPattern\bin\Debug\SingelPattern.exe.config

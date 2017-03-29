@@ -1,0 +1,6 @@
+E:\Code\C#\Console_test\Console_xml\bin\Debug\Console_xml.exe.config
+E:\Code\C#\Console_test\Console_xml\obj\Debug\Console_xml.csprojResolveAssemblyReference.cache
+E:\Code\C#\Console_test\Console_xml\bin\Debug\Console_xml.exe
+E:\Code\C#\Console_test\Console_xml\bin\Debug\Console_xml.pdb
+E:\Code\C#\Console_test\Console_xml\obj\Debug\Console_xml.exe
+E:\Code\C#\Console_test\Console_xml\obj\Debug\Console_xml.pdb

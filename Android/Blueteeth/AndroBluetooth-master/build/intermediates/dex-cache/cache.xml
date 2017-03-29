@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\WangEr\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Code\Android\Blueteeth\AndroBluetooth-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_53b7f44be2219c2f666f75c15a47c6fea18dd474\classes.dex" />
+    </item>
+    <item
+        jar="E:\Code\Android\Blueteeth\AndroBluetooth-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ff9d293ff540048fea67650d02a39a3f5212fd5">
+        <dex dex="E:\Code\Android\Blueteeth\AndroBluetooth-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb39976bcaeffce77868d74e8ec3416839d99add\classes.dex" />
+    </item>
+    <item
+        jar="E:\Code\Android\Blueteeth\AndroBluetooth-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2fadfd0de063f7e834599e5e20b4b5991a398fb6">
+        <dex dex="E:\Code\Android\Blueteeth\AndroBluetooth-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad508d5d1bdd417d4ea5a5bb4617238d9f066cb6\classes.dex" />
+    </item>
+
+</items>

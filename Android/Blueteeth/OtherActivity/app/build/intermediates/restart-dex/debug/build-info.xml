@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="522078748433373" >
+
+    <task
+        name="javac"
+        duration="4882" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5359" />
+    <task
+        name="verifier"
+        duration="150" />
+
+    <artifact
+        location="E:\Code\Android\Blueteeth\OtherActivity\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="522078748433373" >
+        <artifact
+            location="E:\Code\Android\Blueteeth\OtherActivity\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

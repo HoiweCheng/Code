@@ -1,0 +1,6 @@
+E:\Code\C#\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+E:\Code\C#\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+E:\Code\C#\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+E:\Code\C#\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+E:\Code\C#\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+E:\Code\C#\Interpreter\Interpreter\obj\Debug\Interpreter.Scanner.csprojResolveAssemblyReference.cache

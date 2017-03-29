@@ -1,0 +1,15 @@
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.exe.config
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.csprojResolveAssemblyReference.cache
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.exe
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.pdb
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.exe
+E:\Code\ProjectByMyself\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.pdb
+C:\Users\WangEr\Desktop\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.exe.config
+C:\Users\WangEr\Desktop\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.exe
+C:\Users\WangEr\Desktop\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.pdb
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.exe.config
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.exe
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.pdb
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.exe
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\bin\Debug\Console_DFAToToken.pdb
+E:\Code\C#\Console_DFAToToken\Console_DFAToToken\obj\Debug\Console_DFAToToken.csprojResolveAssemblyReference.cache
